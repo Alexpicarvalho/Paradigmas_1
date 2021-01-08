@@ -21,7 +21,8 @@ namespace projetopratico
                 participants[i].SetUpRandomName(names);
             }
             //Realização das provas
-
+            //Sois uns mongos
+            
             //new Prova(participants,3).results();  
         }
     }
